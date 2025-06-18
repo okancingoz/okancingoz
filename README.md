@@ -5,8 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=okancingoz" alt="okancingoz" /></a> </p>
 
-- 🌱 I’m currently learning **React Native.**
-
 - 📫 How to reach me **okanc.ngoz@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
